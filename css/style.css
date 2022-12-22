@@ -159,6 +159,9 @@ html {
 #main-header img {
   width: 90%;
   height: 31.8rem;
+  border: 10px solid rgb(238, 138, 92);
+  padding: 10px;
+  background-color: rgb(121, 116, 116, 0.8);
 }
 
 #main-header .port-item {
